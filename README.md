@@ -1,6 +1,12 @@
-- 👋 Hi, I’m @Todmount
-- 👀 I’m interested in embedded systems programming 
-- 🌱 I’m currently learning machine learning
+👋 Hi, I'm @Todmount, an enthusiastic learner.
+
+💡 Exploring the world of embedded systems and diving into machine learning.
+
+🌱 Currently on a journey to understand the possibilities in technology.
+
+<!--- 🔗 Let's connect and share insights.
+
+📫 Reach me at [your.email@example.com](mailto:your.email@example.com) or visit my [portfolio website](https://www.yourportfolio.com). --->
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!--- - 📫 How to reach me ... --->
 
