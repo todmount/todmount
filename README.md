@@ -1,6 +1,6 @@
 👋 Hi, I'm @Todmount, an enthusiastic learner.
 
-💡 Exploring the world of embedded systems and diving into machine learning.
+💡 Exploring the world of math and diving into machine learning.
 
 🌱 Currently on a journey to understand the possibilities in technology.
 
