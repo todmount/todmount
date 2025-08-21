@@ -1,38 +1,37 @@
-👋 Hi, I'm Todmount!   
-💡 Passionate about Machine Learning, Data Science, and Python development   
-📊 Exploring AI, Edge Computing, and real-world data applications   
+<h1 align="center">👋 Hey, I'm Todmount</h1>
 
-🚀 Currently working on:   
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Developer;Learning+Data+Engineering;Always+curious+to+build+new+things&center=true&width=500&height=45&size=23">
+</p>
 
-Improving my DA & DS skills through projects  
-Learning about Edge AI & IoT integration   
+### 🌱 About Me
+- 🎓 Telecommunications engineer, now diving into **data & software engineering**
+- ⚡ Interests: **ML, Python, DSA**
+- 🐕 Belgian Shepherd sidekick 🐾 (learning German commands 😅)
+- 📚 Sci-fi reader, origami fan, and occasional cook
 
-🔗 Let's connect and share insights.  
+<h2 align="center">
+  📊 GitHub Stats
+</h2>
 
-<!--- 🔗 Let's connect and share insights.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=todmount&theme=vue-dark&show_icons=true&hide=stars" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=todmount&theme=vue-dark&layout=compact&langs_count=6" height="180"/>
+</p>
 
-📫 Reach me at [your.email@example.com](mailto:your.email@example.com) or visit my [portfolio website](https://www.yourportfolio.com). --->
-<!--- - 💞️ I’m looking to collaborate on ... --->
-<!--- - 📫 How to reach me ... --->
+<h2 align="center">
+  🛠️ Tech Stack
+</h2>
 
-<!---
-Todmount/Todmount is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="40" height="40"/>
+</p>
 
-👋 Hi, I'm Todmount!
-💡 Passionate about Machine Learning, Data Science, and Python development
-📊 Exploring AI, Edge Computing, and real-world data applications
-
-🚀 Currently working on:
-
-Improving my ML & DS skills through projects
-Building efficient, scalable APIs with Flask & Docker
-Learning about Edge AI & IoT integration
-📫 Feel free to connect!
-
-👋 Hi, I'm @Todmount, an enthusiastic learner.
-
-💡 Exploring the world of math and diving into machine learning.
-
-🌱 Currently on a journey to understand the possibilities in technology.
+### Currently reading
+<!-- GOODREADS-LIST:START -->
+<!-- GOODREADS-LIST:END -->
 
