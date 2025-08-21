@@ -33,5 +33,7 @@
 
 ### Currently reading
 <!-- GOODREADS-LIST:START -->
+- [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.goodreads.com/review/show/7850230893?utm_medium=api&utm_source=rss) by Joe Reis (⭐️4.16)
+- [Automate the Boring Stuff with Python, 3rd Edition](https://www.goodreads.com/review/show/7850229429?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.5)
 <!-- GOODREADS-LIST:END -->
 
