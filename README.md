@@ -12,11 +12,27 @@
 - 📚 Sci-fi reader, origami fan, and occasional cook
 
 <h3 align="center">📊 GitHub Stats</h3>
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=todmount&theme=vue-dark&show_icons=true&hide=stars" width="455"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=todmount&theme=vue-dark&layout=compact&langs_count=6" width="300"/>
 </p>
+-->
+<table align="center" style="border:none;">
+  <tr style="border:none;">
+    <td style="border:none;">
+      <img src="https://streak-stats.demolab.com?user=todmount&theme=vue-dark" width="435"/>
+    </td>
+    <td rowspan="2" style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=todmount&theme=vue-dark&layout=pie&langs_count=6&hide=html,CSS,php" width="300"/>
+    </td>
+  </tr>
+  <tr style="border:none;">
+    <td style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=todmount&theme=vue-dark&show_icons=true&hide=stars" width="435"/>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">🛠️ Tech Stack</h3>
