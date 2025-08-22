@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Developer;Baby+steps+into+Data+Engineering;Always+curious+to+build+new+things&center=true&width=500&height=45&size=20&duration=4250&pause=1000">
 </p>
 
-<h3 align="center">🌱 About Me</h3>
+<h3 align="center">🇺🇦 About Me</h3>
 
 - 🎓 Telecommunications engineer, now diving into **data & software engineering**
 - ⚡ Interests: **ML, Python, Automation, Data Engineering**
 - 🐕 Belgian Shepherd sidekick 🐾 (learning German commands 😅)
 - 📚 Sci-fi reader, origami fan, and occasional cook
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 Stats</h3>
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=todmount&theme=vue-dark&show_icons=true&hide=stars" width="455"/>
@@ -30,10 +30,14 @@
   <tr style="border:none;">
     <td style="border:none;">
       <img src="https://github-readme-stats.vercel.app/api?username=todmount&theme=vue-dark&show_icons=true&hide=stars" width="435"/>
+<!--       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark" width="435"/> -->
     </td>
   </tr>
 </table>
 
+<!-- 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <h3 align="center">🛠️ Tech Stack</h3>
 <p align="center">
