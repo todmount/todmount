@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/tododmount/" target="_blank" alt="LinkedIn" title="LinkedIn">
     <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756063250/LinkedIn-Icon-Logo.vue_dark_n75yls.png" alt="LinkedIn" width="80"/>
   </a>
-  <a href="mailto:todmount@gmail.com" target="_blank" alt="LinkedIn" title="LinkedIn">
+  <a href="mailto:todmount@gmail.com" target="_blank" alt="Gmail" title="Mail me">
     <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756063254/Gmail-Logo.vue_dark_qjue9a.png" alt="Gmail" width="80"/>
   </a>
   
