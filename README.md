@@ -4,22 +4,31 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Developer;Baby+steps+into+Data+Engineering;Always+curious+to+build+new+things&center=true&width=500&height=45&size=20&duration=4250&pause=1000">
 </p>
 
+<h3 align="center">✨ Showcase</h3>
+
+<p align="center">
+  <a href="https://github.com/Todmount/pronunciation_fetcher">
+    <img 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=pronunciation_fetcher&theme=vue-dark&hide_border=true&show_icons=false" 
+      width="280"
+      alt="pronounciation_fetcher"
+      >
+  </a>
+  <a href="https://github.com/Todmount/wicca">
+    <img 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=wicca&theme=vue-dark&hide_border=true&show_icons=false" 
+      width="280"
+      alt="WICCA"
+      >
+  </a>
+</p>
+
 <h3 align="center">🇺🇦 About Me</h3>
 
 - 🎓 Telecommunications engineer, now diving into **data & software engineering**
 - ⚡ Interests: **ML, Python, Automation, Data Engineering**
 - 🐕 Belgian Shepherd sidekick 🐾 (learning German commands 😅)
 - 📚 Sci-fi reader, origami fan, and occasional cook
-
-<h3 align="center">📊 Stats</h3>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=todmount&theme=vue-dark" >
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark" >
-</p>
-
 
 <!-- Github general stats -->
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=todmount&theme=vue-dark&show_icons=true&hide=stars" width="435"/></a> -->
@@ -55,3 +64,10 @@
   <a href="https://www.linkedin.com/in/tododmount/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:todmount@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
+
+<details>
+  <summary><h3 align="">📊 Stats</h3></summary>
+    <p align="">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark">
+    </p>
+</details>
