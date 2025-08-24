@@ -9,7 +9,7 @@
 <!-- Typing animation -->
 <p align="center" title="Cool animation">
   <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank" alt="(cool typing animation) Aspiring Developer">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Developer;Baby+steps+into+Data+Engineering;Always+curious+to+build+new+things&center=true&color=41b883&width=550&height=45&size=25&duration=4250&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Software+Engineer;Always+curious+to+build+new+things&center=true&color=41b883&width=550&height=45&size=25&duration=4500&pause=1000">
   </a>
 </p>
 
