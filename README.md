@@ -2,7 +2,7 @@
 <!-- <a href="" target="_blank"> -->
 <p align="center" title="My name">
   <a href="https://github.com/Todmount" target="_blank">
-    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756061161/GithubName_njvsm6.png" style="width:255px">
+    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756075338/GithubName_niep5u.png" style="width:255px">
   </a>
 </p>
 
