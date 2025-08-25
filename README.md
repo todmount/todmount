@@ -18,7 +18,7 @@
   <a href="https://www.facebook.com/todmount/" target="_blank" alt="Facebook" title="Facebook">
     <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756063251/Facebook-f_Logo-Blue-Logo.vue_dark_ho8eul.png" alt="Facebook" width="80"/>
   </a>
-  <a href="https://www.linkedin.com/in/tododmount/" target="_blank" alt="LinkedIn" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/todmount" target="_blank" alt="LinkedIn" title="LinkedIn">
     <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756063250/LinkedIn-Icon-Logo.vue_dark_n75yls.png" alt="LinkedIn" width="80"/>
   </a>
   <a href="mailto:todmount@gmail.com" target="_blank" alt="Gmail" title="Mail me">
