@@ -9,7 +9,7 @@
 <!-- Typing animation -->
 <p align="center" title="Cool animation">
   <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank" alt="(cool typing animation) Aspiring Developer">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Software+Engineer;Always+curious+to+build+new+things&center=true&color=41b883&width=550&height=45&size=25&duration=4500&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Software+Engineer;Always+curious+to+build+new+things&center=true&color=F39C12&title_color=F39C12&width=550&height=45&size=25&duration=4500&pause=1000">
   </a>
 </p>
 
@@ -28,18 +28,28 @@
 <sub><hr title="Nothing interesting, look further"></sub>
 
 <!-- Projects I'm proud of -->
+<!--  colors 
+solarized dark bg- 002b36
+vue dark bg - 273849
+shadow green - ffffff00
+github dimmed - 24292F
+amber - F39C12
+&bg_color=DEG135,1D2B2A,24292F,273849
+&bg_color=DEG135,1F2A36,E8F1F2
+&bg_color=DEG135,2C3E50,D5EDE4
+-->
 <h3 align="left" title="Projects I'm proud of">Showcase ✨</h3>
 <p align="left">
   <a href="https://github.com/Todmount/pronunciation_fetcher" target="_blank">
     <img 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=pronunciation_fetcher&theme=vue-dark&hide_border=true&show_icons=false" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=pronunciation_fetcher&theme=vue-dark&hide_border=true&title_color=F39C12&text_color=41b883&show_icons=false&bg_color=DEG135,1D2B2A,24292F,273849" 
       width="280"
       alt="pronounciation_fetcher"
       >
   </a>
   <a href="https://github.com/Todmount/wicca" target="_blank">
     <img 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=wicca&theme=vue-dark&hide_border=true&show_icons=false" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=wicca&theme=vue-dark&hide_border=true&title_color=F39C12&&text_color=41b883&show_icons=false&bg_color=DEG135,1D2B2A,24292F,273849" 
       width="280"
       alt="WICCA"
       >
@@ -82,6 +92,6 @@
 <details title="Stats is so cool">
   <summary><h3>Stats 📊 </h3></summary>
     <p>
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark&bg_color=DEG135,1D2B2A,24292F,273849&hide_border=true">
     </p>
 </details>
