@@ -9,7 +9,7 @@
 <!-- Typing animation -->
 <p align="center" title="Cool animation">
   <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank" alt="(cool typing animation) Aspiring Developer">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Software+Engineer;Always+curious+to+build+new+things&center=true&color=F39C12&title_color=F39C12&width=550&height=45&size=25&duration=4500&pause=1000">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Software+Engineer;Always+curious+to+build+new+things&center=true&color=41b883&title_color=F39C12&width=550&height=45&size=25&duration=4500&pause=1000">
   </a>
 </p>
 
@@ -31,9 +31,11 @@
 <!--  colors 
 solarized dark bg- 002b36
 vue dark bg - 273849
+vue dark txt - 41b883
 shadow green - ffffff00
 github dimmed - 24292F
 amber - F39C12
+181F1F
 &bg_color=DEG135,1D2B2A,24292F,273849
 &bg_color=DEG135,1F2A36,E8F1F2
 &bg_color=DEG135,2C3E50,D5EDE4
@@ -42,14 +44,14 @@ amber - F39C12
 <p align="left">
   <a href="https://github.com/Todmount/pronunciation_fetcher" target="_blank">
     <img 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=pronunciation_fetcher&theme=vue-dark&hide_border=true&title_color=F39C12&text_color=41b883&show_icons=false&bg_color=DEG135,1D2B2A,24292F,273849" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=pronunciation_fetcher&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=162322&border_color=0B1313" 
       width="280"
       alt="pronounciation_fetcher"
       >
   </a>
   <a href="https://github.com/Todmount/wicca" target="_blank">
     <img 
-      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=wicca&theme=vue-dark&hide_border=true&title_color=F39C12&&text_color=41b883&show_icons=false&bg_color=DEG135,1D2B2A,24292F,273849" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=wicca&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=162322" 
       width="280"
       alt="WICCA"
       >
