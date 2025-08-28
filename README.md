@@ -2,8 +2,7 @@
 <!-- <a href="" target="_blank"> -->
 <p align="center" title="My name">
   <a href="https://github.com/Todmount" target="_blank">
-    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756158343/GithubName_niep5u.png" style="width:255px">
-  </a>
+    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756158343/GithubName_niep5u.png" style="width:255px"></a>
 </p>
 
 <!-- Typing animation -->
@@ -16,16 +15,14 @@
 <!-- Socials -->
 <p align="center">
   <a href="https://www.facebook.com/todmount/" target="_blank" alt="Facebook" title="Facebook">
-    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756063251/Facebook-f_Logo-Blue-Logo.vue_dark_ho8eul.png" alt="Facebook" width="80"/>
-  </a>
+    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756063251/Facebook-f_Logo-Blue-Logo.vue_dark_ho8eul.png" alt="Facebook" width="80"></a>
   <a href="https://www.linkedin.com/in/todmount" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756063250/LinkedIn-Icon-Logo.vue_dark_n75yls.png" alt="LinkedIn" width="80"/>
-  </a>
+    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756063250/LinkedIn-Icon-Logo.vue_dark_n75yls.png" alt="LinkedIn" width="80"></a>
   <a href="mailto:todmount@gmail.com" target="_blank" alt="Gmail" title="Mail me">
-    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756063254/Gmail-Logo.vue_dark_qjue9a.png" alt="Gmail" width="80"/>
-  </a>
+    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756063254/Gmail-Logo.vue_dark_qjue9a.png" alt="Gmail" width="80"></a>
   
-<sub><hr title="Nothing interesting, look further"></sub>
+<!--- <sub><hr title="Nothing interesting, look further"></sub> --->
+<!--- <h1></h1> --->
 
 <!-- Projects I'm proud of -->
 <!--  colors 
@@ -47,15 +44,13 @@ amber - F39C12
       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=pronunciation_fetcher&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=162322&border_color=0B1313" 
       width="280"
       alt="pronounciation_fetcher"
-      >
-  </a>
+      ></a>
   <a href="https://github.com/Todmount/wicca" target="_blank">
     <img 
       src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=wicca&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=162322" 
       width="280"
       alt="WICCA"
-      >
-  </a>
+      ></a>
 </p>
 
 <!-- Introduction -->
@@ -69,14 +64,14 @@ amber - F39C12
 <!-- Tools Icon Set: https://devicon.dev/-->
 <h3 align="left" title="Tools I use">Tech Stack 🛠️</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="50">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" width="50">
 </p>
 <!-- Tools I'm learning -->
 <p align="center" title="Tools I'm diving in"><sub><i>Currently exploring: SQL · Docker · Airflow · PySpark</i></sub></p>
