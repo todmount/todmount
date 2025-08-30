@@ -50,10 +50,9 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
 <!-- Introduction -->
 <h3 align="left" title="Introduction">About Me 🇺🇦</h3>
 
-- 🎓 Telecommunications engineer, now diving into **data & software engineering**
-- ⚡ Interests: **ML, Python, Automation, Data Engineering**
+- ⚡ Interests: **Python, Machine learning, and Workflow Automation**
 - 🐕 Belgian Shepherd sidekick 🐾 (learning German commands 😅)
-- 📚 Sci-fi reader, origami fan, and occasional cook
+- 📚 Sci-fi reader, origami fan, and occasional chef
 
 <!-- Tools Icon Set: https://devicon.dev/-->
 <h3 align="left" title="Tools I use">Tech Stack 🛠️</h3>
