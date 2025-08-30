@@ -78,10 +78,25 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
 <details title="Stats is so cool">
   <summary><h3>Stats 📊 </h3></summary>
   
+  
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img style="width:390px" src="https://github-readme-stats.vercel.app/api?username=todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true" alt="GitHub Stats" title="GitHub Stats"><a>
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=todmount&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A&card_width=327&card_height=170" alt="GitHub Streak" title="GitHub Streak"><a>
+  </div>
+  <div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="height:350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true" alt="WakaTime" title="WakaTime"><a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img style="height:350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true&layout=donut-vertical" alt="Top Langs" title="Top Langs"><a>
+  </div>
+    
+  <!---  
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=todmount&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A)](https://git.io/streak-stats)
   [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-
+  --->
 
 </details>
