@@ -2,7 +2,7 @@
 <!-- <a href="" target="_blank"> -->
 <p align="center" title="My name">
   <a href="https://github.com/Todmount" target="_blank">
-    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756158343/GithubName_niep5u.png" style="height:30px"></a>
+    <img style="height:30px" src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756158343/GithubName_niep5u.png"></a>
 </p>
 
 <!-- Typing animation. See https://github.com/DenverCoder1/readme-typing-svg -->
@@ -13,11 +13,17 @@
 </div>
 
 <!-- Socials -->
-<div align="center" style="width:50px;height:50px">
+<div align="center">
   <a href="https://www.linkedin.com/in/todmount" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756561851/LinkedIn-Icon-Logo.vue_dark_n75yls.png" alt="LinkedIn" style="width:44px"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <img
+      style="width:44px"
+      src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756561851/LinkedIn-Icon-Logo.vue_dark_n75yls.png" 
+      alt="LinkedIn"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:todmount@gmail.com" target="_blank" alt="Gmail" title="Mail me">
-    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756561829/Gmail-Logo.vue_dark_qjue9a.png" alt="Gmail" style="width:44px"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <img
+      style="width:44px"
+      src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756561829/Gmail-Logo.vue_dark_qjue9a.png" 
+      alt="Gmail"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/todmount/" target="_blank" alt="Facebook" title="Facebook">
     <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756561810/Facebook-f_Logo-Blue-Logo.vue_dark_ho8eul.png" alt="Facebook" style="width:44px"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </div>
@@ -25,6 +31,7 @@
 
 <!--- <sub><hr title="Nothing interesting, look further"></sub> --->
 <!--- <h1></h1> --->
+
 
 <!-- Projects I'm proud of -->
 <!--  colors 
@@ -47,6 +54,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
       ></a>
 </p>
 
+
 <!-- Introduction -->
 <h3 align="left" title="Introduction">About Me 🇺🇦</h3>
 
@@ -54,15 +62,27 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
 - 🐕 Belgian Shepherd sidekick 🐾 (learning German commands 😅)
 - 📚 Sci-fi reader, origami fan, and occasional chef
 
-<!-- Tools Icon Set: https://devicon.dev/-->
+
+<!-- Tools Icon Set: https://devicon.dev/ https://github.com/LelouchFR/skill-icons?tab=readme-ov-file-->
 <h3 align="left" title="Tools I use">Tech Stack 🛠️</h3>
-<p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true"/></a>
-</p>
+<p  align="center">
+  <picture> <!-- In theory, this should change some icons by user theme -->
+    <a href="https://go-skill-icons.vercel.app/">
+      <source 
+        media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true&theme=dark"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true&theme=light"/>
+      <img 
+        alt="python, numpy, pandas, jupyter, linux, git, pycharm, anaconda" 
+        src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true&theme=" />
+  </picture>
+  </p>
+
   
 <!-- Tools I'm learning -->
-<p align="center" title="Tools I'm diving in"><sub><i>Currently exploring: SQL · Docker · Airflow · PySpark</i></sub></p>
+<p align="center" title="Tools I'm diving in">
+  <sub><i>Currently exploring: SQL · Docker · Airflow · PySpark</i></sub>
+</p>
+
 
 <!-- Workflow: https://github.com/marketplace/actions/goodreads-profile-workflow -->
 <h3 align="left" title="Books I'm reading">Currently reading 📚</h3>
@@ -73,22 +93,44 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
 - [Automate the Boring Stuff with Python, 3rd Edition](https://www.goodreads.com/review/show/7850229429?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.57)
 <!-- GOODREADS-LIST:END -->
 
+
 <!-- Stats -->
 <details title="Stats is so cool">
   <summary><h3>Stats 📊 </h3></summary>
   
-  
   <div>
+    <!-- Stats -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img style="width:390px" src="https://github-readme-stats.vercel.app/api?username=todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true" alt="GitHub Stats" title="GitHub Stats"><a>
+      <img 
+        style="width:390px" 
+        src="https://github-readme-stats.vercel.app/api?username=todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true" 
+        alt="GitHub Stats" 
+        title="GitHub Stats"
+        ></a>
+    <!-- Streak (width in the src) &background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A-->
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=todmount&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A&card_width=327&card_height=170" alt="GitHub Streak" title="GitHub Streak"><a>
+      <img 
+        src="https://streak-stats.demolab.com?user=todmount&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A&card_width=327&card_height=170" 
+        alt="GitHub Streak" 
+        title="GitHub Streak"
+        ></a>
   </div>
   <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="height:350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true" alt="WakaTime" title="WakaTime"><a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img style="height:350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true&layout=donut-vertical" alt="Top Langs" title="Top Langs"><a>
+    <!-- WakaTime -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img 
+        style="height:350px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true" 
+        alt="WakaTime" 
+        title="WakaTime"
+        ></a>
+    <!-- Top languages -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img 
+        style="height:350px" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true&layout=donut-vertical" 
+        alt="Top Languages" 
+        title="Top Languages"
+        ></a>
   </div>
     
   <!--- Same as above, but markdown 
@@ -97,8 +139,8 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
   [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
   --->
-
 </details>
+
 
 <!-- Workflow: https://github.com/Platane/snk?tab=readme-ov-file -->
 <picture align="center">
