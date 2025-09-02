@@ -50,7 +50,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
 <!-- Introduction -->
 <h3 align="left" title="Introduction">About Me 🇺🇦</h3>
 
-- ⚡ Interests: **Python, Machine learning, and Workflow Automation**
+- ⚡ Mainly interested in **Python and Workflow Automation**, but also enjoy some **Machine learning**
 - 🐕 Belgian Shepherd sidekick 🐾 (learning German commands 😅)
 - 📚 Sci-fi reader, origami fan, and occasional chef
 
@@ -91,7 +91,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
     <img style="height:350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true&layout=donut-vertical" alt="Top Langs" title="Top Langs"><a>
   </div>
     
-  <!---  
+  <!--- Same as above, but markdown 
   [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=todmount&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A)](https://git.io/streak-stats)
   [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -99,3 +99,10 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
   --->
 
 </details>
+
+<!-- Workflow: https://github.com/Platane/snk?tab=readme-ov-file -->
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Todmount/Todmount/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Todmount/Todmount/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Todmount/Todmount/output/github-snake.svg" />
+</picture>
