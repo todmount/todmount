@@ -16,12 +16,12 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/todmount" target="_blank" alt="LinkedIn" title="LinkedIn">
     <img
-      style="width:66px"
+      style="width:44px"
       src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756561851/LinkedIn-Icon-Logo.vue_dark_n75yls.png" 
       alt="LinkedIn"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:todmount@gmail.com" target="_blank" alt="Gmail" title="Mail me">
     <img
-      style="width:66px"
+      style="width:44px"
       src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756561829/Gmail-Logo.vue_dark_qjue9a.png" 
       alt="Gmail"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/todmount/" target="_blank" alt="Facebook" title="Facebook">
@@ -42,13 +42,13 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
 <p align="left">
   <a href="https://github.com/Todmount/pronunciation_fetcher" target="_blank">
     <img 
-      src="https://readme-stats-xi-six.vercel.app/api/pin/?username=todmount&repo=pronunciation_fetcher&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A&border_color=0B1313" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=pronunciation_fetcher&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A&border_color=0B1313" 
       width="280"
       alt="pronounciation_fetcher"
       ></a>
   <a href="https://github.com/Todmount/wicca" target="_blank">
     <img 
-      src="https://readme-stats-xi-six.vercel.app/api/pin/?username=todmount&repo=wicca&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A" 
+      src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=wicca&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A" 
       width="280"
       alt="WICCA"
       ></a>
@@ -93,7 +93,6 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
 - [Automate the Boring Stuff with Python, 3rd Edition](https://www.goodreads.com/review/show/7850229429?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.57)
 <!-- GOODREADS-LIST:END -->
 
-[![GitHub Streak](https://readme-streak-804sm59cl-todmounts-projects.vercel.app?user=todmount&theme=blood-dark)](https://git.io/streak-stats)
 
 <!-- Stats -->
 <details title="Stats is so cool">
@@ -111,7 +110,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
     <!-- Streak (width in the src) &background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A-->
     <a href="https://git.io/streak-stats">
       <img 
-        src="https://readme-streak-five.vercel.app/?user=todmount&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A&card_width=407&card_height=170" 
+        src="https://readme-streak-five.vercel.app/?user=todmount&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A&card_width=472&card_height=170" 
         alt="GitHub Streak" 
         title="GitHub Streak"
         ></a>
@@ -120,14 +119,14 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
     <!-- WakaTime -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img 
-        style="height:390px" src="https://readme-stats-xi-six.vercel.app/api/wakatime?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true" 
+        style="height:420px" src="https://readme-stats-xi-six.vercel.app/api/wakatime?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true" 
         alt="WakaTime" 
         title="WakaTime"
         ></a>
     <!-- Top languages -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img 
-        style="height:390px" 
+        style="height:420px" 
         src="https://readme-stats-xi-six.vercel.app/api/top-langs/?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true&layout=donut-vertical&exclude_repo=todmount,DICT_Machine_Learning,DICT_Deep_Learning,DICT_Antenna_Systems" 
         alt="Top Languages" 
         title="Top Languages"
