@@ -93,6 +93,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
 - [Automate the Boring Stuff with Python, 3rd Edition](https://www.goodreads.com/review/show/7850229429?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.57)
 <!-- GOODREADS-LIST:END -->
 
+[![GitHub Streak](https://readme-streak-804sm59cl-todmounts-projects.vercel.app?user=todmount&theme=blood-dark)](https://git.io/streak-stats)
 
 <!-- Stats -->
 <details title="Stats is so cool">
@@ -110,7 +111,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
     <!-- Streak (width in the src) &background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A-->
     <a href="https://git.io/streak-stats">
       <img 
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=todmount&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A&card_width=327&card_height=170" 
+        src="https://readme-streak-five.vercel.app/?user=todmount&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A&card_width=327&card_height=170" 
         alt="GitHub Streak" 
         title="GitHub Streak"
         ></a>
