@@ -95,10 +95,10 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
   <summary><h2 align="left" title="Books I'm reading">Currently reading 📚</h2></summary>
   
   <!-- GOODREADS-LIST:START -->
-  - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/7850495241?utm_medium=api&utm_source=rss) by Matthew Walker (⭐️4.36)
-  - [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.goodreads.com/review/show/7850230893?utm_medium=api&utm_source=rss) by Joe Reis (⭐️4.16)
-  - [Automate the Boring Stuff with Python, 3rd Edition](https://www.goodreads.com/review/show/7850229429?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.57)
-  <!-- GOODREADS-LIST:END -->
+- [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/7850495241?utm_medium=api&utm_source=rss) by Matthew Walker (⭐️4.36)
+- [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.goodreads.com/review/show/7850230893?utm_medium=api&utm_source=rss) by Joe Reis (⭐️4.16)
+- [Automate the Boring Stuff with Python, 3rd Edition](https://www.goodreads.com/review/show/7850229429?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.57)
+<!-- GOODREADS-LIST:END -->
 </details>
 
 
