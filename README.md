@@ -41,9 +41,9 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
 <details open> 
   <summary><h2 align="left" title="Projects I'm proud of">Showcase ✨</h2></summary>
   <p align="left">
-    <a href="https://github.com/Todmount/pronunciation_fetcher" target="_blank">
+    <a href="https://github.com/Todmount/pronunciation-fetcher" target="_blank">
       <img 
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=pronunciation_fetcher&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A&border_color=0B1313" 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=pronunciation-fetcher&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A&border_color=0B1313" 
         width="280"
         alt="pronounciation_fetcher"
         ></a>
@@ -52,6 +52,12 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=wicca&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A" 
         width="280"
         alt="WICCA"
+        ></a>
+    <a href="https://github.com/Todmount/psql-data-warehouse" target="_blank">
+      <img 
+        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=psql-data-warehouse&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A&border_color=0B1313" 
+        width="280"
+        alt="pronounciation_fetcher"
         ></a>
   </p>
 </details>
@@ -131,7 +137,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img 
         style="height:170px" 
-        src="https://readme-stats-xi-six.vercel.app/api/top-langs/?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true&layout=compact&exclude_repo=todmount,DICT_Machine_Learning,DICT_Deep_Learning,DICT_Antenna_Systems" 
+        src="https://readme-stats-xi-six.vercel.app/api/top-langs/?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true&layout=compact&exclude_repo=todmount,DICT_Machine_Learning,DICT_Deep_Learning,DICT_Antenna_Systems,github-readme-stats,github-readme-streak-stats,info-systems-labs" 
         alt="Top Languages" 
         title="Top Languages"
         ></a>
