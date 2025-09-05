@@ -8,8 +8,7 @@
 <!-- Typing animation. See https://github.com/DenverCoder1/readme-typing-svg -->
 <div align="center" title="Cool animation">
   <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank" alt="Aspiring Data Software Engineer">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Software+Engineer;Always+curious+to+build+new+things&center=true&color=41b883&title_color=F39C12&width=550&height=55&size=24&duration=4500&pause=1000">
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Software+Engineer;Always+curious+to+build+new+things&center=true&color=41b883&title_color=F39C12&width=550&height=55&size=24&duration=4500&pause=1000"></a>
 </div>
 
 <!-- Socials -->
@@ -18,14 +17,19 @@
     <img
       style="width:44px"
       src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756561851/LinkedIn-Icon-Logo.vue_dark_n75yls.png" 
-      alt="LinkedIn"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+      alt="LinkedIn"
+    ></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:todmount@gmail.com" target="_blank" alt="Gmail" title="Mail me">
     <img
       style="width:44px"
       src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756561829/Gmail-Logo.vue_dark_qjue9a.png" 
-      alt="Gmail"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+      alt="Gmail"
+    ></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/todmount/" target="_blank" alt="Facebook" title="Facebook">
-    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756561810/Facebook-f_Logo-Blue-Logo.vue_dark_ho8eul.png" alt="Facebook" style="width:44px"></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+    <img src="https://res.cloudinary.com/dxteec1w4/image/upload/v1756561810/Facebook-f_Logo-Blue-Logo.vue_dark_ho8eul.png" 
+      alt="Facebook" 
+      style="width:44px"
+    ></a>&#8287;&#8287;&#8287;&#8287;&#8287;
 </div>
 
 
@@ -43,22 +47,20 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
   <p align="left">
     <a href="https://github.com/Todmount/pronunciation-fetcher" target="_blank">
       <img 
-        src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=pronunciation-fetcher&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A&border_color=0B1313" 
-        width="280"
-        alt="pronounciation_fetcher"
-        ></a>
+        width="268" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=pronunciation-fetcher&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A&border_color=0B1313" alt="pronounciation_fetcher"
+      ></a>
     <a href="https://github.com/Todmount/wicca" target="_blank">
       <img 
+        width="268"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=wicca&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A" 
-        width="280"
         alt="WICCA"
-        ></a>
+      ></a>
     <a href="https://github.com/Todmount/psql-data-warehouse" target="_blank">
       <img 
+        width="268"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=psql-data-warehouse&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A&border_color=0B1313" 
-        width="280"
         alt="pronounciation_fetcher"
-        ></a>
+      ></a>
   </p>
 </details>
 
@@ -76,19 +78,17 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
 <!-- Tools Icon Set: https://devicon.dev/ https://github.com/LelouchFR/skill-icons?tab=readme-ov-file-->
 <details open>
   <summary><h2 align="left" title="Tools I use">Tech Stack 🛠️</h2></summary>
-  
   <p  align="left">
     <picture> <!-- In theory, this should change some icons by user theme -->
       <a href="https://go-skill-icons.vercel.app/">
-        <source 
-          media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true&theme=dark"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true&theme=dark"/>
         <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true&theme=light"/>
         <img 
           alt="python, numpy, pandas, jupyter, linux, git, pycharm, anaconda" 
-          src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true&theme=" />
+          src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true&theme=" 
+        /></a>
     </picture>
   </p>
-  
   <!-- Tools I'm learning -->
   <p align="left" title="Tools I'm diving in">
     <sub><i>Currently exploring: SQL · Docker · Airflow · PySpark</i></sub>
@@ -112,7 +112,6 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
 <!-- Stats -->
 <details title="Stats is so cool">
   <summary><h2>Stats 📊 </h2></summary>
-  
   <div>
     <h3>Streak❤️‍🔥</h3>
     <!-- Streak (width in the src) &background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A-->
@@ -121,7 +120,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
         src="https://readme-streak-five.vercel.app/?user=todmount&theme=vue-dark&hide_border=true&exclude_days=Sun%2CSat&background=90%2C162322%2C162322%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A%2C1D2B2A&card_width=472&card_height=170" 
         alt="GitHub Streak" 
         title="GitHub Streak"
-        ></a>
+      ></a>
   </div>
   <div>
     <h3>Profile👨‍💻</h3>
@@ -132,7 +131,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
         src="https://readme-stats-xi-six.vercel.app/api?username=todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true" 
         alt="GitHub Stats" 
         title="GitHub Stats"
-        ></a>
+      ></a>
       <!-- Top languages -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img 
@@ -140,7 +139,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
         src="https://readme-stats-xi-six.vercel.app/api/top-langs/?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true&layout=compact&exclude_repo=todmount,DICT_Machine_Learning,DICT_Deep_Learning,DICT_Antenna_Systems,github-readme-stats,github-readme-streak-stats,info-systems-labs" 
         alt="Top Languages" 
         title="Top Languages"
-        ></a>
+      ></a>
   </div>
   <div>
     <h3>WakaTime⏳</h3>
@@ -151,8 +150,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
         src="https://readme-stats-xi-six.vercel.app/api/wakatime?username=Todmount&theme=vue-dark&bg_color=90,162322,162322,1D2B2A,1D2B2A,1D2B2A&hide_border=true" 
         alt="WakaTime" 
         title="WakaTime"
-        ></a>
-    
+      ></a>    
   </div>
     
   <!--- Same as above, but markdown 
