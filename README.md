@@ -103,7 +103,7 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
   <!-- GOODREADS-LIST:START -->
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](https://www.goodreads.com/review/show/7889584130?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️3.94)
 - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/review/show/7850495241?utm_medium=api&utm_source=rss) by Matthew Walker (⭐️4.36)
-- [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.goodreads.com/review/show/7850230893?utm_medium=api&utm_source=rss) by Joe Reis (⭐️4.17)
+- [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.goodreads.com/review/show/7850230893?utm_medium=api&utm_source=rss) by Joe Reis (⭐️4.16)
 - [Automate the Boring Stuff with Python, 3rd Edition](https://www.goodreads.com/review/show/7850229429?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.57)
 <!-- GOODREADS-LIST:END -->
 </details>
