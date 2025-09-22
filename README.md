@@ -81,11 +81,9 @@ solarized dark bg - 002b36   vue dark bg - 273849   vue dark txt - 41b883   shad
   <p  align="left">
     <picture> <!-- In theory, this should change some icons by user theme -->
       <a href="https://go-skill-icons.vercel.app/">
-        <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true&theme=dark"/>
-        <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true&theme=light"/>
         <img 
-          alt="python, numpy, pandas, jupyter, linux, git, pycharm, anaconda" 
-          src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git,pycharm,anaconda&titles=true&theme=" 
+          alt="python, numpy, pandas, jupyter, linux, git" 
+          src="https://go-skill-icons.vercel.app/api/icons?i=python,numpy,pandas,jupyter,linux,git&titles=true&theme=" 
         /></a>
     </picture>
   </p>
