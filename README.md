@@ -61,12 +61,12 @@ bg_color=162322
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=wicca&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A" 
         alt="WICCA"
       ></a>
-    <a href="https://github.com/Todmount/dbt-postgres-warehouse" target="_blank">
+  <!--<a href="https://github.com/Todmount/dbt-postgres-warehouse" target="_blank">
       <img 
         width="268"
         src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=todmount&repo=dbt-postgres-warehouse&theme=vue-dark&hide_border=true&title_color=41b883&show_icons=false&bg_color=90,162322,1D2B2A,1D2B2A&border_color=0B1313" 
         alt="pronounciation_fetcher"
-      ></a>
+      ></a>-->
   </p>
 </details>
 
