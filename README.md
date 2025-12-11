@@ -113,7 +113,7 @@ https://github.com/marketplace/actions/goodreads-profile-workflow
   <summary><h2 align="left" title="Books I'm reading">Currently reading 📚</h2></summary>
   
   <!-- GOODREADS-LIST:START -->
-- [Automate the Boring Stuff with Python, 3rd Edition](https://www.goodreads.com/review/show/7850229429?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.56)
+- [Automate the Boring Stuff with Python, 3rd Edition](https://www.goodreads.com/review/show/7850229429?utm_medium=api&utm_source=rss) by Al Sweigart (⭐️4.6)
 - [How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking](https://www.goodreads.com/review/show/7889584130?utm_medium=api&utm_source=rss) by Sönke Ahrens (⭐️3.97)
 - [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.goodreads.com/review/show/7850230893?utm_medium=api&utm_source=rss) by Joe Reis (⭐️4.15)
 <!-- GOODREADS-LIST:END -->
