@@ -13,8 +13,8 @@ Typing animation
 https://github.com/DenverCoder1/readme-typing-svg 
 -->
 <div align="center" title="Cool animation">
-  <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank" alt="Aspiring Data Software Engineer">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Engineer;Always+curious+to+build+new+things&center=true&color=41b883&title_color=F39C12&width=550&height=55&size=24&duration=4500&pause=1000"></a>
+  <a href="https://github.com/denvercoder1/readme-typing-svg" target="_blank" alt="Junior Data Software Engineer">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Junior+Data+Engineer;Always+curious+to+build+new+things&center=true&color=41b883&title_color=F39C12&width=550&height=55&size=24&duration=4500&pause=1000"></a>
 </div>
 
 <!-- Socials -->
